@@ -664,7 +664,7 @@ body {
     
 }
 .div-inside1{
-    background-image: url(./images/BMPL-2.webp);
+    background-image: url(BMPL-2.webp);
     height: 450px;
     object-fit: cover;
     background-repeat: no-repeat;
@@ -676,7 +676,7 @@ body {
     object-fit: cover;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(./images/Small-Metro-Online-Trolley.avif);
+    background-image: url(Small-Metro-Online-Trolley.avif);
 }
 .hover-shadow{
     transition: box-shadow 0.3s ease; 
